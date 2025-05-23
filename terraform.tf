@@ -4,7 +4,7 @@ terraform {
     organization = "emma-terra"
 
     workspaces {
-      name = "terraform-cloud-ec2"
+      name = "terraform-certif"
     }
   }
 
